@@ -11,6 +11,7 @@ header {
     background-image: url("https://images01.nicepage.com/1e/33/1e337aca6926e6390da9170be3bb09db.png");
     height: 800px;
     display: flex;
+    background-size: 100% 100%;
 }
 
 .logo {
